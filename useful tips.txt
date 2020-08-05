@@ -1,0 +1,1 @@
+> Aggregation: mongodb aggregation where we can put heavy lifting work from node
